@@ -1,2 +1,2 @@
 # Potato-Disease-Predictor
-Analysis through Convolution Neural Network
+Experiment through Convolution Neural Network
